@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: rn/about.html 
+keywords:  
+summary:  
+---
+= Informationen zu diesem Release
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Die Dokumentation auf dieser Seite beschreibt die Astra Control REST API und damit verbundene Automatisierungstechnologien, die mit den Versionen August 2021 (21.08) und April 2021 (21.04) von Astra Control verfügbar sind. Insbesondere wird diese Version der REST API mit der entsprechenden Version 21.08 des Astra Control Center verwendet.
+
+Weitere Informationen zu diesem Release sowie zu vorherigen Versionen finden Sie auf den folgenden Seiten und den folgenden Websites:
+
+* link:../rn/whats_new.html["Neuerungen bei der Astra Control REST-API"]
+* link:../endpoints/resources.html["Ressourcen und Endpunkte"]
+* https://docs.netapp.com/us-en/astra-control-center-2108/["Astra Control Center 2108-Dokumentation"^]
+
