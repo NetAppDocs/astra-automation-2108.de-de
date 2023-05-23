@@ -65,7 +65,7 @@ Die von der API unterstützten HTTP-Methoden oder Verben werden in der folgenden
 Die folgende Tabelle fasst die HTTP-Header zusammen, die mit der Astra Control REST API verwendet werden.
 
 
-NOTE: Siehe https://["RFC 7232"^] Und https://["RFC 7233"^] Finden Sie weitere Informationen.
+NOTE: Siehe https://www.rfc-editor.org/rfc/rfc7232.txt["RFC 7232"^] Und https://www.rfc-editor.org/rfc/rfc7233.txt["RFC 7233"^] Finden Sie weitere Informationen.
 
 [cols="30,15,55"]
 |===

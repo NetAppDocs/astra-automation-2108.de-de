@@ -47,7 +47,7 @@ Nachdem ein Token entzogen wurde, ist es sofort und dauerhaft unbrauchbar.
 .Schritte
 . Melden Sie sich mit Ihren Anmeldedaten im Astra an.
 +
-Rufen Sie die folgende Website für den Astra Control Service auf: https://["https://astra.netapp.io"^]
+Rufen Sie die folgende Website für den Astra Control Service auf: https://astra.netapp.io/["https://astra.netapp.io"^]
 
 . Klicken Sie auf das Figurensymbol oben rechts auf der Seite und wählen Sie *API Access*.
 . Wählen Sie das Token oder die Token aus, die Sie widerrufen möchten.

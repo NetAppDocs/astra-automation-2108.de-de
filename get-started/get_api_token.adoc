@@ -28,7 +28,7 @@ Diese Aufgabe erzeugt ein API-Token in der Astra-Webschnittstelle. Sie sollten a
 .Schritte
 . Melden Sie sich mit Ihren Anmeldedaten im Astra an.
 +
-Rufen Sie die folgende Website für den Astra Control Service auf: https://["https://astra.netapp.io"^]
+Rufen Sie die folgende Website für den Astra Control Service auf: https://astra.netapp.io/["https://astra.netapp.io"^]
 
 . Klicken Sie auf das Figurensymbol oben rechts auf der Seite und wählen Sie *API Access*.
 . Klicken Sie auf *API-Token generieren* auf der Seite und klicken Sie im Popup-Fenster auf *API-Token generieren*.
